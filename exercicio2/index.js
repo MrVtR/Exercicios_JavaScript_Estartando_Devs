@@ -1,5 +1,5 @@
-
-
+/* Exercicio 2:
+Verifique se as afirmativas estão certas, caso contrario justifique com uma prova real. Dica: Use o typeof para as provas reais.*/
 // A) O tipo da constante `typeNumber` é number.
 const typeNumber = "10";
 //Resposta: Falso,é possível evidenciar que o tipo é String,a partir da prova real com o typeof(typeNumber)
