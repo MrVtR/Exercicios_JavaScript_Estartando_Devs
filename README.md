@@ -1,4 +1,5 @@
 # Exercicios_JavaScript_Estartando_Devs
+Exercícios de JavaScript feitos nas aulas do curso de Desenvolvimento Web da Estartando Devs
 ## Descrição dos Exercícios:
 
 1 - Para passar no Colegio "Crias do Devs" os alunos precisam de media 8.
