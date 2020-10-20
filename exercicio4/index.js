@@ -1,3 +1,8 @@
+/* Exercicio 4
+    Receba um array de aluno com as notas 4 dos bimestres, e retorne um array contendo o nome, 
+    a media de cada aluno e informaçao se o mesmo foi aprovado ou reprovado, 
+    sabendo que as notas podem variar de 0 a 10 e a média minima para aprovaçao é 7.
+*/
 const alunos = [
     {
       nome: "Jonas",
@@ -16,6 +21,9 @@ const alunos = [
         notas: [10,4,10],
     }
   ];
+
+main(alunos);
+
 
 function media(elementoNotas){
     let soma=0,i;
@@ -49,6 +57,6 @@ function main(array){
     console.log(res);
 }
 
-main(alunos);
+
 
 
