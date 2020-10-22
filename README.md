@@ -27,3 +27,16 @@ const x = 13 > 20;
 const s = "Estartando " + "Devs";
 
 ```
+---
+
+3- Pegue um array de inteiros e retorne a soma de todos os elementos.
+  <br/><strong>ENTRADA EXEMPLO</strong>
+    <br/>[3, 7, 1]
+  <br/><strong>SAIDA EXEMPLO</strong>
+    <br/>11
+
+---
+
+4- Receba um array de aluno com as notas 4 dos bimestres, e retorne um array contendo o nome, 
+    a media de cada aluno e informaçao se o mesmo foi aprovado ou reprovado, 
+    sabendo que as notas podem variar de 0 a 10 e a média minima para aprovaçao é 7.
